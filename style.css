@@ -1,0 +1,84 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: AliceBlue;
+}
+
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 250%;
+  border: 3px solid blueviolet;
+  border-radius: 25px;
+  padding: 35px;
+  margin: 50px;
+}
+h2 {
+	color: blue;
+	font-family: helvetica;
+	font-size: 175%;
+	border: 3px solid violet;
+	border-radius: 25px;
+	padding: 25px;
+	margin: 35px;
+}
+
+p {
+  color: black;
+  font-family: verdana;
+  font-size: 85%;
+  border: 2px solid powderblue;
+  border-radius: 15px;
+  padding: 25px;
+  margin: 45px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+div.credit {
+  color: darkblue;
+  font-family: "Satisfy", cursive;
+  font-size: 90%;
+  position: relative;
+  margin: 5px 5px 5px 55px;
+}
+
+div.award-list {
+	background-color: Linen;
+	border: 2px solid darkgreen;
+	padding: 25px;
+	margin-bottom: 35px;
+	margin-left: 45px;
+}
+
+#paragraph2 {
+  color: darkred;
+}
+
+#unordered-list {
+  color: darkgreen;
+  background-color: Linen;
+  font-size: 85%;
+  border: 2px solid darkgreen;
+  list-style: none;
+  line-height: 1.8;
+  padding: 25px;
+  margin: 5px 5px 5px 55px;
+  margin-left: 45px;
+}
+
+.goToSite{
+  position: relative;
+  line-height: 1.8;
+  font-family: sans-serif;
+  margin: 5px 5px 5px 55px;
+}
